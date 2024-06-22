@@ -1,0 +1,42 @@
+{
+    "infobae": [
+        {
+            "id": 1,
+            "title": "Luciano Castro y Griselda Siciliani, enamorados, ya no ocultan su amor: su foto paseando por Palermo",
+            "url": "https://www.infobae.com/teleshow/2024/06/22/luciano-castro-y-griselda-siciliani-enamorados-ya-no-ocultan-su-amor-su-foto-paseando-por-palermo/",
+            "img_url": "https://www.infobae.com/new-resizer/qFvcMAgS5ZpvD1tXa2BqzoSd0wQ=/265x149/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/2KNODMZN3BHVBMYQJK3GZG7SGM.jpg",
+            "alt_text": "Luciano Castro y Griselda Siciliani, enamorados, ya no ocultan su amor: su foto paseando por Palermo",
+            "source": "infobae"
+        }
+    ],
+    "LaNacion": [
+        {
+            "id": 1,
+            "title": "Lukaku marcó tres goles ¡y no le cobraron ninguno!: un VAR en llamas en el triunfo de Bélgica",
+            "url": "https://www.lanacion.com.ar/deportes/futbol/eurocopa-belgica-le-manda-un-mensaje-a-todos-esta-vivo-barrio-a-rumania-y-tiene-al-mejor-de-bruyne-nid22062024/",
+            "img_url": "https://www.lanacion.com.ar/resizer/v2/no-esta-habilitado-romelu-lukaku-convirtio-el-2-0-2AQECW32YJG57J4FCCCJRXIV44.JPG?auth=6289005e7b4da5509dbdcb521e71dc4139ca9f7f852b7d4555d065ad9f46398b&width=300&height=200&quality=70&smart=true",
+            "alt_text": "Lukaku marcó tres goles ¡y no le cobraron ninguno!: un VAR en llamas en el triunfo de Bélgica",
+            "source": "LaNacion"
+        }
+    ],
+    "TN": [
+        {
+            "id": 1,
+            "title": "Eurocopa 2024, día 9: Portugal se clasificó a octavos tras vencer a Turquía y Bélgica se impuso ante Rumania",
+            "url": "https://tn.com.ar/deportes/futbol/2024/06/22/eurocopa-2024-dia-9-portugal-va-en-busca-del-pase-a-octavos-ante-turquia-y-belgica-enfrenta-a-rumania/",
+            "img_url": "https://tn.com.ar/resizer/5hsQM3M60WefHq_0zuYm045GEAY=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/3MP3FK56FBFSDOFUBHHP2GTHMQ.jpg",
+            "alt_text": "Portugal y Bélgica se juegan todo en sus respectivos grupos de la Eurocopa 2024. (Fotos: Reuters / AP).",
+            "source": "TN"
+        }
+    ],
+    "Clarin": [
+        {
+            "id": 1,
+            "title": "Los conservadores cristianos se entregan a Donald Trump en Estados Unidos: \"Es el único que representa a Dios\"",
+            "url": "https://www.clarin.com/mundo/conservadores-cristianos-entregan-donald-trump-unidos-unico-representa-dios_0_Ev15iLHdil.html",
+            "img_url": "https://www.clarin.com/img/2024/06/22/sCa5R2vom_290x140__1.jpg",
+            "alt_text": "Los conservadores cristianos se entregan a Donald Trump en Estados Unidos: \"Es el único que representa a Dios\"",
+            "source": "Clarin"
+        }
+    ]
+}
